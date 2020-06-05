@@ -82,6 +82,10 @@ Presents a list of records.
 </tbody>
 </table>
 
+## Advanced Proverties
+
+HERE
+
 ## Events
 
 <table markdown="1">
@@ -143,4 +147,3 @@ Presents a list of records.
 </tr>
 </tbody>
 </table>
-
